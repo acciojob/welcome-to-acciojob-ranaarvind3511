@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+/* styles.css */
+body {
+    background-color: #f0f0f0; /* Example background color */
+    font-family: Arial, sans-serif; /* Example font family */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #007BFF; /* Example background color */
+    color: #fff; /* Example text color */
+}
